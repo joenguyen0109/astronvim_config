@@ -18,6 +18,11 @@ return {
   },
 
   {
+    "thosakwe/vim-flutter",
+    event = "VeryLazy",
+  },
+
+  {
     "akinsho/flutter-tools.nvim",
     dependencies = {
       "nvim-lua/plenary.nvim",
