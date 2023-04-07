@@ -21,7 +21,7 @@ git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
+git clone git@github.com:joenguyen0109/astronvim_config.git ~/.config/nvim/lua/user
 ```
 
 
